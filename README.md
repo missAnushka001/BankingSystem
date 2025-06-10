@@ -38,7 +38,6 @@ cd BankingSystem
 ## 📸 Screenshots
 ![Screenshot 2025-06-10 104423](https://github.com/user-attachments/assets/3fd95848-d611-4504-9b07-dc5563957c64)
 
-## Setup MySQL Database
 
 ##✅ Evaluation Criteria (Mapped)
 
