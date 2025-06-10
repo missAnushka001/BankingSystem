@@ -4,7 +4,6 @@
 ## Description
 
 This is a **Java-based desktop banking system** that simulates basic account operations such as transferring funds between accounts. It follows an MVC structure and demonstrates clean code, data validation, error handling, and GUI integration using Java Swing.
----
 
 ## 🌟 Features
 
