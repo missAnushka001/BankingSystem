@@ -52,7 +52,7 @@ cd BankingSystem
 | Code Quality & Innovation   | ✅          | Modular packages, reusable code, log history  |
 | Project Documentation       | ✅          | Complete README, DB schema, file structure    |
 ```
-### Build & Run
+## Build & Run
 
 Open the project in your favorite IDE (e.g., IntelliJ IDEA, NetBeans, Eclipse).
 Ensure JDBC & MySQL connector libraries are in the classpath (e.g., via Maven/Gradle or manually).
@@ -67,7 +67,7 @@ Deposit/Withdraw: Choose an account and perform transactions using the GUI.
 Transfer Funds: Move money from one account to another.
 View History: Select an account to see its full transaction history.
 
-### 🧩 Project Structure
+## 🧩 Project Structure
 
 ```bash
 ├── src/
