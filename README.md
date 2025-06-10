@@ -35,8 +35,7 @@ cd BankingSystem
   ```
 
 ## 📸 Screenshots
-![Screenshot 2025-06-10 104423](https://github.com/user-attachments/assets/3fd95848-d611-4504-9b07-dc5563957c64)
-
+![Screenshot 2025-06-10 104423](https://github.com/user-attachments/assets/ed116962-580e-4c93-8d1c-0facbf6df099)
 
 ## ✅ Evaluation Criteria (Mapped)
 
