@@ -39,7 +39,7 @@ cd BankingSystem
 ![Screenshot 2025-06-10 104423](https://github.com/user-attachments/assets/3fd95848-d611-4504-9b07-dc5563957c64)
 
 
-##✅ Evaluation Criteria (Mapped)
+## ✅ Evaluation Criteria (Mapped)
 
 ```bash
 | Criteria                    | Fulfilled? | Description                                   |
@@ -52,9 +52,7 @@ cd BankingSystem
 | Code Quality & Innovation   | ✅          | Modular packages, reusable code, log history  |
 | Project Documentation       | ✅          | Complete README, DB schema, file structure    |
 ```
-
-
-##Build & Run
+### Build & Run
 
 Open the project in your favorite IDE (e.g., IntelliJ IDEA, NetBeans, Eclipse).
 Ensure JDBC & MySQL connector libraries are in the classpath (e.g., via Maven/Gradle or manually).
@@ -69,7 +67,8 @@ Deposit/Withdraw: Choose an account and perform transactions using the GUI.
 Transfer Funds: Move money from one account to another.
 View History: Select an account to see its full transaction history.
 
-##🧩 Project Structure
+### 🧩 Project Structure
+
 ```bash
 ├── src/
 │ ├── Main.java
@@ -89,7 +88,8 @@ View History: Select an account to see its full transaction history.
 ├── build.ps1 ← PowerShell script to clean, compile, and run
 └── README.md
 ```
-##💡 Innovation Highlights
+## 💡Innovation Highlights
+
 GUI-based fund transfer simulation with transaction timestamps.
 Modular code for easier enhancements like interest calculation or multi-user login.
 Prepared for enhancements like report generation or REST API integration.
@@ -137,11 +137,11 @@ javac -d ../bin model/*.java dao/*.java ui/*.java utils/*.java Main.java
 cd ../bin
 java Main
 ``` 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 Add account creation/deletion
 Enable transaction filtering/search
 Export transaction logs to PDF/CSV
 Implement login authentication
 
-##📄 License
+## 📄 License
 This project is licensed for educational use only.
