@@ -70,7 +70,6 @@ Transfer Funds: Move money from one account to another.
 View History: Select an account to see its full transaction history.
 
 ##🧩 Project Structure
-
 ```bash
 ├── src/
 │ ├── Main.java
@@ -99,9 +98,7 @@ Prepared for enhancements like report generation or REST API integration.
 ---
 
 ## ⚙️ How to Run
-
 ### Step 1: Setup MySQL
-
 1. Open MySQL and run the script in `database/banking.sql`:
 
 ```sql
@@ -141,12 +138,10 @@ cd ../bin
 java Main
 ``` 
 ##🚀 Future Improvements
-
 Add account creation/deletion
 Enable transaction filtering/search
 Export transaction logs to PDF/CSV
 Implement login authentication
 
 ##📄 License
-
 This project is licensed for educational use only.
