@@ -112,18 +112,17 @@ View History: Select an account to see its full transaction history.
 ├── README.md             # This file
 └── .gitignore
 ```
+##💡 Innovation Highlights
+GUI-based fund transfer simulation with transaction timestamps.
+Modular code for easier enhancements like interest calculation or multi-user login.
+Prepared for enhancements like report generation or REST API integration.
 
-##✅ How to Contribute
+## 🙌 Contributions
 
-###Contributions are welcome! Here are some ways you can help:
+Want to improve the project?
+Fork this repo
+Create your feature branch: git checkout -b feature-name
+Commit changes: git commit -m "Add feature"
+Push: git push origin feature-name
+Submit a Pull Request 🎉
 
-Add features: E.g., support multiple account types, reports, interest calculations.
-Improve UI: Make the Swing interface more intuitive and attractive.
-Strengthen security: Add password hashing, role-based access.
-Write tests: Unit tests for DAO and business logic.
-Fix bugs: Report issues via GitHub Issues.
-
-##👤 Author
-
-Anushka Sharma – Initial implementation & design
-GitHub: @missAnushka001
