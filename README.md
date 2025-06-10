@@ -47,14 +47,14 @@ cd BankingSystem
   ```
 
 ## Screenshots
-
-
+![Screenshot 2025-06-10 104423](https://github.com/user-attachments/assets/3fd95848-d611-4504-9b07-dc5563957c64)
 
 ## Setup MySQL Database
 
 Create a database named banking_system.
 Run the included SQL script (e.g., schema.sql) to create tables:
 
+```bash
 CREATE TABLE accounts (
   account_id INT AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(100),
@@ -72,13 +72,15 @@ CREATE TABLE transactions (
   FOREIGN KEY (account_id) REFERENCES accounts(account_id)
 );
 
-
+```
 ##Configure Database Credentials
 
+```bash
 private static final String DB_URL = "jdbc:mysql://localhost:3306/banking_system";
 private static final String USER = "root";
 private static final String PASS = "your_password";
 
+```
 
 ##Build & Run
 
@@ -97,6 +99,7 @@ View History: Select an account to see its full transaction history.
 
 ##🧩 Project Structure
 
+```bash
 ├── src/
 │   ├── model/            # Domain classes (Account, Transaction, etc.)
 │   ├── dao/              # Database access objects (JDBC logic)
@@ -108,7 +111,7 @@ View History: Select an account to see its full transaction history.
 │   └── schema.sql        # SQL scripts for DB schema
 ├── README.md             # This file
 └── .gitignore
-
+```
 
 ##✅ How to Contribute
 
