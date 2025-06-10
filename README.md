@@ -123,6 +123,7 @@ Strengthen security: Add password hashing, role-based access.
 Write tests: Unit tests for DAO and business logic.
 Fix bugs: Report issues via GitHub Issues.
 
-👤 Author
+##👤 Author
+
 Anushka Sharma – Initial implementation & design
 GitHub: @missAnushka001
