@@ -98,7 +98,7 @@ Prepared for enhancements like report generation or REST API integration.
 ---
 
 ## ⚙️ How to Run
-### Step 1: Setup MySQL
+Step 1: Setup MySQL
 1. Open MySQL and run the script in `database/banking.sql`:
 
 ```sql
